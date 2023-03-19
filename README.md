@@ -8,7 +8,7 @@ Hello I am Nick, I am currently in school for Information Technology. I am hopin
 
 I have been programming since I was 7 and initially started with Torque, granted I wasn't all that good with torque, but I ended up going into C# and C++ from that point on. Sadly I didn't know about Git at the time, so I never ended up posted everything I programmed to here and instead lost it, at the time, on a four-year-old hard drive that died.
 
-I have since been uploading mods I have made for games, and other things such as projects I have been working on. I also have a personal GitLab base and a normal GitLab account.
+I have since been uploading mods I have made for games, and other things such as projects I have been working on. ~~I also have a personal GitLab base~~ I have moved to GitGud instead of hosting my own and a normal GitLab account.
 
 [GitGud](https://gitgud.io/nekoboinick)   
 [GitLab](https://gitlab.com/thakyz)
