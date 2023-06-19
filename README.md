@@ -15,7 +15,7 @@ I have since been uploading mods I have made for games, and other things such as
 
 I work very hard to keep my server running, and to make sure it's in all working order, sometimes people don't notify me in time on my Discord server, but I do end up finding out something is broken via Cron Jobs I have set up to notify if anything broke.
 
-I have been in college for about 2 years now because of prerequisites and I have less than 2 years left.
+I have been in college for about 4 years now because of prerequisites and I have less than 1 year left.
 
 Furthermore, I am part of the LGBTQIA+ community, and I am neurodivergent.
 
